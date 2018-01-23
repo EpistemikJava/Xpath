@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<account>
+<acc:location>
+    <locn:address>
+        <street type="string">137 Marlborough Ave</street>
+    </locn:address>
+</acc:location>
+<acc:people>
+    <acc:person>
+        <pers:firstname>Lars</pers:firstname>
+        <pers:lastname>Vogel</pers:lastname>
+        <pers:city>Heidelberg</pers:city>
+    </acc:person>
+    <acc:person>
+        <pers:firstname>Jim</pers:firstname>
+        <pers:lastname>Knopf</pers:lastname>
+        <pers:city>Heidelberg</pers:city>
+    </acc:person>
+    <acc:person>
+        <pers:firstname>Lars</pers:firstname>
+        <pers:lastname>Strangepers:lastname</pers:lastname>
+        <pers:city>London</pers:city>
+    </acc:person>
+    <acc:person>
+        <pers:firstname>Landerman</pers:firstname>
+        <pers:lastname>Petrelli</pers:lastname>
+        <pers:city>Somewhere</pers:city>
+    </acc:person>
+    <acc:person>
+        <pers:firstname>Lars</pers:firstname>
+        <pers:lastname>Tim</pers:lastname>
+        <pers:city>SomewhereElse</pers:city>
+    </acc:person>
+</acc:people>
+</account>
+
