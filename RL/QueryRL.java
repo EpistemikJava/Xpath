@@ -125,8 +125,8 @@ class UniversalNamespaceCache implements NamespaceContext {
     private Map<String, String> uri2Prefix = new HashMap<String, String>();
  
     /**
-     * This constructor parses the document and stores all namespaces it can find.
-     * If toplevelOnly is true, only namespaces in the root are used.
+     * CONSTRUCTOR parses the document and stores all namespaces it can find.
+     * If 'toplevelOnly' is true, only namespaces in the root are used.
      * 
      * @param document
      *            source document
